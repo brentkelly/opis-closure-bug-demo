@@ -1,0 +1,10 @@
+{
+	"autoload": {
+        "psr-4": {
+            "Services\\": "services/"
+        }
+    },
+    "require": {
+        "opis/closure": "^3.5"
+    }
+}
