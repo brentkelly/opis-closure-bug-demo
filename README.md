@@ -6,3 +6,4 @@ This is a quick demo of the bug that stops unserialized closures being able to c
 
 - clone
 - `composer install`
+- `php index.php`
